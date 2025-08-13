@@ -1,4 +1,4 @@
-# Lecture of adjoint method
+# Gradients via the Adjoint Method: From Theory to Practice
 
 アジョイント法は、微分方程式に従う変数を引数に持つスカラー関数に対して、微分方程式の初期値に関する微分（勾配）を得る方法である。
 特に多自由度の場合に効率的に勾配を得ることができ、変分データ同化、ニューラルネットワークなど、適用・応用範囲は広い。
